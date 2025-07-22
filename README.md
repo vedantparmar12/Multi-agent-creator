@@ -1,4 +1,4 @@
-# 🚀 Make It heavy
+# 🚀 Multi Agent worker
 
 A Python framework to emulate **Grok heavy** functionality using a powerful multi-agent system. Built on OpenRouter's API, Make It heavy delivers comprehensive, multi-perspective analysis through intelligent agent orchestration.
 
